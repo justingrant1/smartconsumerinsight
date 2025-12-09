@@ -18,7 +18,7 @@ export default function BestBabyNameGenerators() {
         '<strong>Personalized Recommendations</strong> – Input your preferences for style, origin, and meaning.',
         '<strong>Trend Predictions</strong> – See which names are rising or falling in popularity.',
         '<strong>Name Meanings & Origins</strong> – Comprehensive database of name etymologies.',
-        '<strong>Sibling Name Matcher</strong> – Find names that pair well with existing children's names.',
+        '<strong>Sibling Name Matcher</strong> – Find names that pair well with existing children names.',
         '<strong>Cultural Diversity</strong> – Names from 50+ cultures and languages.',
         '<strong>Pronunciation Guide</strong> – Audio pronunciations for every name.',
         '<strong>Save & Share Lists</strong> – Create lists and share with partner/family.'
